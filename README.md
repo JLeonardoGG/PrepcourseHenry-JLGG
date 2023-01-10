@@ -1,2 +1,1 @@
-# PrepcourseHenry-JLGG
-Este repositorio es una prueba del pre curso de Soy Henry de JLGG 
+AGGG creo que ya se q pasoo. no guarde y por eso no me dejaba crear el commit 
